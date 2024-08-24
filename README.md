@@ -12,19 +12,16 @@
 ## I can
 
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white"/>
-</span>
-
-<span>
     <img src="https://img.shields.io/badge/ c++-00599C?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ c-A8B9CC?style=plastic&logo=cplusplus&logoColor=white"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+</span>
+<br>
+<br>
 
 
 <span>
@@ -38,6 +35,19 @@
 <span>
     <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
 </span>
+<br>
+<br>
+
+<span>
+    <img src="https://img.shields.io/badge/ node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ Flask-000000?style=plastic&logo=flask&logoColor=white"/>
+</span>
+
+
+
 
 
 
