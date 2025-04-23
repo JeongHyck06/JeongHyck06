@@ -48,5 +48,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHyck06" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyck06" /><br/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghyeok050"/>
 </p>
