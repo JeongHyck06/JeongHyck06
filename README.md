@@ -1,9 +1,14 @@
-<h2 align="center">👀 About Me</h2>
+<h2 align="center">🙋 about me!<br/></h2>
 
-<p align="center">
-🙋 I am studying software engineering at university.<br/>
-🏫 SungKongHoe University Software Convergence Department, 1st year (SKHU)
-</p>
+<div align="center">
+  <h3>활동</h3>
+  소프트웨어 융합 학부 ) 2025 ~  </br>
+  구름톤 유니브 4기 ) 2025.4 ~ </br>
+  <h3>수상</h3>
+  청소년 진로진학 센터 진로비전캠프 논문 작성대회 ) 2022.11.10 - 장려상 </br>
+  성공회대학교 창업 아이디어 경진대회 ) 2025.5.30 - 대상 </br>
+  구름톤 유니브 NEXUS 프로젝트 ) 2025.8.26 - 1위 </br>
+</div>
 
 ---
 
