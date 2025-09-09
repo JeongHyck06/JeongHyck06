@@ -1,4 +1,4 @@
-<h2 align="center">🙋 about me!<br/></h2>
+<h2 align="center">취미로 공부하고 본업으로 성장하는 개발자 임정혁 입니다<br/></h2>
 
 <div align="center">
   <h3>활동</h3>
