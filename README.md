@@ -38,7 +38,7 @@
 </div>
 
 ---
-<a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=JeongHyck06&theme=dark&card_width=450" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=JeongHyk06&theme=dark&card_width=450" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyck06&layout=compact)
 
