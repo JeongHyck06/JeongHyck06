@@ -14,17 +14,23 @@
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
  
 ---
-<div>
-  <h3>활동</h3>
-  unist 슈퍼컴퓨팅 캠프 ) 2022.7 <br>
-  소프트웨어융합 학부 ) 2025 ~  </br>
-  구름톤 유니브 4기 미르미 ) 2025.4 ~ 2025.10 - 수료 🏁 </br> 
-  GDGoC 25-26 기수 Backend Member ) 2025.9 ~ <br><br>
-  <h3>수상</h3>
-  청소년 진로진학 센터 진로비전캠프 논문 작성대회 ) 2022.11.10 - 장려상 🥉 </br>
-  성공회대학교 창업 아이디어 경진대회 ) 2025.5.30 - 대상 🥇 </br>
-  구름톤 유니브 NEXUS 프로젝트 ) 2025.8.26 - 1위 🥇 </br>
-</div>
+### projects
+| 프로젝트 | 레포지토리 링크 | 역할 | 기간 | 결과 |
+| --- | --- | --- | --- | --- |
+| 구름톤 유니브 NEXUS 프로젝트 - 베타랩 | https://github.com/PROJECT-NEXUS-JS/Backend | BE | 2025.07 ~ 2025.08 | 1위 🥇 |
+| 교내 it 경진대회 - Stage Plan | https://github.com/JeongHyck06/stageplan-backend | 1인 개발 | 2025.09 ~ 2025.10 | 장려상 🥉 |
+
+---
+
+### active in
+
+  | 활동 그룹 | 기간 | 상태 |
+| --- | --- | --- |
+| unist 슈퍼컴퓨팅 캠프 | 2022.07 | 수료 🏁 |
+| 소프트웨어융합 학부 | 2025.03 ~ | 진행중 |
+| 구름톤 유니브 4기 미르미 | 2025.04 ~ 2025.10 | 수료 🏁 |
+| GDGoC 25-26 | 2025.09 ~ | 진행중 |
+| 교내 창업 동아리 | 2025.09 ~ | 진행중 |
 
 ---
 <a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=JeongHyck06&theme=dark&card_width=450" alt="GitHub Streak" /></a>
