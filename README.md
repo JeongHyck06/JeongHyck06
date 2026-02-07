@@ -39,7 +39,7 @@
 | 구름톤 유니브 4기 미르미 | 2025.04 ~ 2025.10 | 수료 🏁 |
 | GDGoC 25-26 | 2025.09 ~ | 진행중 |
 | 교내 창업 동아리 | 2025.09 ~ 2025.12 | 수료 🏁 |
-| 베타랩 2.0 | 2025.07 ~ | 진행중 |
+| 베타랩 2.0 | 2025.07 ~ 2026.02| 서비스 중단 |
 
 ---
 <a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=JeongHyck06&theme=dark&card_width=450" alt="GitHub Streak" /></a>
