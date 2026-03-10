@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>취미로 공부하고 본업으로 성장하는 개발자 임정혁 입니다</h2>
+<h2>임정혁 입니다</h2>
 
 <h3>Backend</h3>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
