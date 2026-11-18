@@ -10,6 +10,7 @@
 | [숭실대 2025 슈퍼스타 창업경진대회 - 베타랩 2.0](https://github.com/PROJECT-NEXUS-JS) | BE | 2025.09 ~ 2025.12 | 최우수상 🥇 |
 | [GDGoC 그로우톤, 아이디어톤 - Travodo](https://github.com/Travodo) | BE/FE | 2025.10 ~ 2025.12 | 1위 🥇 |
 | [KSC 2026 학부생 논문 - 밀집검색이 놓치는 부정조건... ](https://github.com/JeongHyck06/Menu-recommend-algorithm) | Ai | 2026.09 ~ 2026.12 | accept |
+| [개인 창업 프로젝트 - 팀스페이스](https://github.com/TeampleSpace) | BE/FE | 2026.11 | 개발중... |
 
 ---
 <div align="center">
